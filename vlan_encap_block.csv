@@ -1,0 +1,4 @@
+vlan_pool,poolAllocMode,start_vlan,stop_vlan,alloc_mode,role,status
+VLP-L3OUT,static,2500,2799,inherit,external,
+VLP-Server,static,3000,3699,inherit,external,
+VLP-VMM,static,3700,3900,inherit,external,

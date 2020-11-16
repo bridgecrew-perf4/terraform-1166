@@ -1,0 +1,1 @@
+{"totalCount":"1","imdata":[{"l2extDomP":{"attributes":{"annotation":"","dn": "${dn}","name":"${name}","nameAlias":"","ownerKey":"","ownerTag":""},"children":[{"infraRsVlanNs":{"attributes":{"tDn":"${vlan_pool}"}}}]}}]}

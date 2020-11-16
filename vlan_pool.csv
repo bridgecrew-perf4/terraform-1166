@@ -1,0 +1,5 @@
+name,alloc_mode,status
+VLP-L3OUT,static,
+VLP-Server,static,
+VLP-VMM,static,
+ ,,

@@ -1,0 +1,5 @@
+name,type,vlan_pool,status
+DOM-PHY-Server,physical,VLP-Server,
+DOM-VMM-Prod,vmm_vmware,VLP-Server,
+DOM-ERD-L3OUT,external_l3,VLP-L3OUT,
+DOM-ERD-L2OUT,external_l2,VLP-Server,

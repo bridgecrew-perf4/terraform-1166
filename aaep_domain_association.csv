@@ -1,0 +1,6 @@
+name,description,domain_name,enable_infra_vlan,infra_vlan,status
+AEP-Core,Connectivity to DC Core Switches,DOM-ERD-L3OUT,no,,
+AEP-IPN,Connectivity to IPN Switches,DOM-ERD-L3OUT,no,,
+AEP-Firewall,Connectivity to Firewall,DOM-ERD-L3OUT,no,,
+AEP-SLB,Connectivity to SLB,DOM-ERD-L3OUT,no,,
+AEP-Server,Connect to Servers,DOM-PHY-Server,no,,
